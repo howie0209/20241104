@@ -52,5 +52,4 @@ class MainActivity : ComponentActivity() {
 
 fun Birth(m: Modifier){
 
-
 }
